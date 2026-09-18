@@ -332,6 +332,8 @@ USYD_ELEC5308_UWB/
 - **Framework**: STM32 HAL, scikit-learn
 - **Protocol**: IEEE 802.15.4a UWB standard
 
+  
+AI coding tools were used for implementation assistance, refactoring and documentation. System architecture, hardware integration, experimental design, debugging, validation and performance evaluation were performed by the project author.
 ---
 
 **Project Course**: ELEC5308 - University of Sydney
